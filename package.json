@@ -8,7 +8,14 @@
   },
   "author": "kanweiwei",
   "license": "MIT",
-  "dependencies": {
-    "tapable": "2.2.0"
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "7.13.15",
+    "@babel/generator": "7.13.9",
+    "@babel/traverse": "7.13.15",
+    "@babel/types": "7.13.14",
+    "@types/babel__traverse": "7.11.1",
+    "babylon": "6.18.0",
+    "tapable": "1.x"
   }
 }

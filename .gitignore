@@ -2,3 +2,5 @@
 
 yarn.lock
 pakckage-lock.json
+.vscode/
+dist/
